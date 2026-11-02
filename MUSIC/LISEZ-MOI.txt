@@ -1,0 +1,27 @@
+VOS MUSIQUES DE FOND (style AMV, etc.) : MODE D'EMPLOI
+========================================================
+
+1. Collez vos fichiers de musique DANS CE DOSSIER.
+   Formats acceptes : MP3, OGG ou WAV.
+
+2. Pour choisir l'ordre de lecture, renommez-les avec un numero devant :
+      01_ma_chanson.mp3
+      02_autre_chanson.mp3
+   Le jeu les joue les unes apres les autres, puis recommence en boucle.
+
+3. Rouvrez le projet dans Godot (ou laissez-le ouvert : il importe
+   les nouveaux fichiers tout seul) et lancez le jeu.
+   Des qu'il y a au moins une chanson ici, elle remplace automatiquement
+   les deux musiques d'ambiance d'origine. Aucun code a toucher.
+
+4. Pour revenir aux musiques d'origine : videz simplement ce dossier
+   (gardez ce fichier LISEZ-MOI.txt, il est ignore par le jeu).
+
+5. Le volume se regle dans le jeu : Options -> Musique.
+
+ATTENTION AUX DROITS D'AUTEUR
+Les chansons d'AMV trouvees sur YouTube sont presque toujours protegees.
+Vous pouvez les utiliser pour vos parties a vous, mais ne publiez pas
+le jeu (Play Store, itch.io, videos monétisees...) avec une chanson
+dont vous n'avez pas les droits : utilisez une musique libre de droits
+ou une de vos compositions pour la version publiee.
